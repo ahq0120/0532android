@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Traveling2023</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="paris">PARIS</string>
+    <string name="zurich">ZURICH</string>
+    <string name="asiacitys">ASIA CITY</string>
+    <string name="hk">HONG KONG</string>
+    <string name="beijing">BEIJING</string>
+    <string name="version">Traveling v.1.1</string>
+    <string name="author">Minyi</string>
+    <string name="email">a109222252@mail.shu.edu.tw</string>
+    <string name="homepage">https://im.wp.shu.edu.tw/</string>
+    <string name="phone">0968367640</string>
+</resources>
